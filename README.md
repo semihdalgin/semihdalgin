@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
-<h3 align="center">A passionate PM&PO from Berlin</h3>
+<h3 align="center">A passionate PM&PO and Data Lover from Berlin</h3>
 
 - 📫 How to reach me **semihdalgin@gmail.com**
 
