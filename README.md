@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
 <h3 align="center">A passionate PM&PO and Data Lover from Berlin</h3>
 
+<h3 align="center">I have more than 15 years GIS & CAD  experience with deep knowledge about GIS solutions, data management, data and system integration. IT Product and Project Manager with 10 years of demonstrated experience in managing cross-functional international teams, using Agile (Scrum, Kanban) methodology. Experienced in requirements gathering, developing road-maps, features planning and execution. Expertise on delivering projects within strict timelines and allocated budgets. Value driven and result oriented, striving for providing better solutions for end users. </h3>
+
 - 📫 How to reach me **semihdalgin@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/semihdalgin/](https://www.linkedin.com/in/semihdalgin/)
